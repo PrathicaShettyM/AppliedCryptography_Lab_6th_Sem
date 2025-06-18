@@ -7,13 +7,13 @@
 
 ## Basic Concepts
 
-| Term           | Meaning                                  |
+| Components     | Size of these components                  |
 |----------------|-------------------------------------------|
 | Block Size     | 64 bits (8 bytes)                         |
 | Key Size       | 56 bits effective (64 bits with parity)   |
 | Rounds         | 16 Feistel rounds                         |
 | Encryption     | Done on 64-bit chunks                     |
-| Mode Used      | ECB (Electronic Codebook) in lab examples |
+| Mode Used      | ECB (Electronic Codebook) mode            |
 
 
 ## DES Logic
